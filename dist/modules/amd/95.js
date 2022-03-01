@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack=self.webpackChunkwebpack||[]).push([[95],{95:(e,a)=>{var p;void 0===(p=(()=>["cerveja","agua","suco","vinho","bebidas"]).apply(a,[]))||(e.exports=p),e.exports=liquidos}}]);
